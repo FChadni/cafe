@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d64f5ca3-6339-47ca-a4b8-d0af3b24133d" name="webdev-cafe" url="http://webdev.cse.msu.edu/~begumfa1/cafe">
+        <fileTransfer rootFolder="/user/begumfa1/classweb/cafe" accessType="SFTP" host="arctic.cse.msu.edu" port="22" sshConfigId="d791c6dd-00b0-4b79-9f8a-aac3d860284b" sshConfig="begumfa1@arctic.cse.msu.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
